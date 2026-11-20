@@ -4,6 +4,8 @@
 
 用 C# WPF + WebView2 把百度贴吧网页版装进一个独立的 Windows 窗口，界面沿用小红书桌面版（[XhsDesktop](https://github.com/wstaery/XhsDesktop)）的 Word 文档风格：外层是 Word 的标题栏、功能区和状态栏，中间文档页面里显示贴吧当前内容。
 
+> 直接下载：[Releases](https://github.com/wstaery/TiebaDesktop/releases) 中的 `TiebaDesktop.exe`，双击即可运行，无需安装 .NET。
+
 ## 功能
 
 - 独立 Windows 窗口，可自由拉伸、最大化，支持多显示器与高 DPI
@@ -103,6 +105,8 @@ tiebaDesktop/
 [中文](#百度贴吧桌面版tiebaDesktop) · [English](#baidu-tieba-desktop-tiebadesktop)
 
 A standalone Windows app built with C# WPF + WebView2 that wraps the Baidu Tieba web version. It uses the same Word-style shell design as the Xiaohongshu desktop app ([XhsDesktop](https://github.com/wstaery/XhsDesktop)): a Word title bar, ribbon and status bar around a document page that shows the live Tieba website.
+
+> Download `TiebaDesktop.exe` from [Releases](https://github.com/wstaery/TiebaDesktop/releases) and run it directly. No .NET installation required.
 
 ## Features
 
